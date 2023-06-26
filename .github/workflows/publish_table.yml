@@ -1,0 +1,38 @@
+name: Build PDF
+
+on:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * MON"
+
+jobs:
+  build:
+    name: Check ERDDAP servers versions
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Micromamba Python ${{ matrix.python-version }}
+        uses: mamba-org/setup-micromamba@v1
+        with:
+          init-shell: bash
+          environment-name: ERDDAP_VER_CHECK
+          create-args: >-
+            --file conda-linux-64.lock
+
+      - name: Build table
+        shell: bash -l {0}
+        run: |
+          jupyter nbconvert --to notebook --execute erddap_server_versions.ipynb --output=erddap_server_versions-output.ipynb
+
+      - name: Publish HTML
+        if: github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: csv/
+          keep_files: true
