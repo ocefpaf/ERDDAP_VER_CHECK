@@ -1,4 +1,4 @@
-name: Build PDF
+name: Run ERDDAP version check
 
 on:
   pull_request:
@@ -16,20 +16,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Micromamba Python ${{ matrix.python-version }}
+      - name: Setup Micromamba Python
         uses: mamba-org/setup-micromamba@v1
         with:
-          init-shell: bash
           environment-name: ERDDAP_VER_CHECK
-          create-args: >-
-            --file conda-linux-64.lock
+          environment-file: conda-lock.yml
+          init-shell: bash
 
       - name: Build table
         shell: bash -l {0}
         run: |
           jupyter nbconvert --to notebook --execute erddap_server_versions.ipynb --output=erddap_server_versions-output.ipynb
 
-      - name: Publish HTML
+      - name: Publish Table
         if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v3
         with:
