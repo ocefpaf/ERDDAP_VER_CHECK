@@ -20,7 +20,7 @@ jobs:
         uses: mamba-org/setup-micromamba@v1
         with:
           environment-name: ERDDAP_VER_CHECK
-          environment-file: conda-lock.yml
+          environment-file: conda-linux-64.lock
           init-shell: bash
 
       - name: Build table
