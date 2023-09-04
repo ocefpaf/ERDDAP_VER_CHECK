@@ -44,7 +44,7 @@
 | https://data.ioos.us/gliders/erddap                                | 2.18          |
 | https://data.cioospacific.ca/erddap                                | 2.22          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 1.82          |
-| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.23          |
+| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.22          |
 | https://coastwatch.noaa.gov/erddap                                 | 2.22          |
 | https://coastwatch.glerl.noaa.gov/erddap                           | 2.14          |
 | https://cioosatlantic.ca/erddap                                    | 2.18          |
