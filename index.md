@@ -13,7 +13,7 @@
 | https://polarwatch.noaa.gov/erddap                                 | 2.23          |
 | https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.23          |
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18          |
-| https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22          |
+| https://oceanwatch.pifsc.noaa.gov/erddap                           | failed        |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.18          |
 | https://members.oceantrack.org/erddap                              | 2.17          |
 | https://jeodpp.jrc.ec.europa.eu/services/erddap                    | 2.18          |
