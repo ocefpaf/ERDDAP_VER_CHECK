@@ -31,7 +31,7 @@
 | https://erddap.maracoos.org/erddap                                 | 2.02          |
 | https://erddap.incois.gov.in/erddap                                | failed        |
 | https://erddap.ichec.ie/erddap                                     | 1.82          |
-| https://erddap.griidc.org/erddap                                   | 2.02          |
+| https://erddap.griidc.org/erddap                                   | failed        |
 | https://erddap.gcoos.org/erddap                                    | 2.23          |
 | https://erddap.emodnet.eu/erddap                                   | 2.18          |
 | https://erddap.emodnet-physics.eu/erddap                           | 2.02_axiom-r1 |
@@ -44,7 +44,7 @@
 | https://data.ioos.us/gliders/erddap                                | 2.18          |
 | https://data.cioospacific.ca/erddap                                | 2.22          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 1.82          |
-| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.23          |
+| https://coastwatch.pfeg.noaa.gov/erddap                            | failed        |
 | https://coastwatch.noaa.gov/erddap                                 | 2.22          |
 | https://coastwatch.glerl.noaa.gov/erddap                           | 2.14          |
 | https://cioosatlantic.ca/erddap                                    | 2.18          |
@@ -74,6 +74,6 @@
 | http://erddap.aoos.org/erddap                                      | 2.23          |
 | http://dm3.caricoos.org:8002/erddap                                | 1.82          |
 | http://data.nanoos.org/erddap                                      | 2.02          |
-| http://data.glos.us/erddap                                         | 1.82          |
+| http://data.glos.us/erddap                                         | failed        |
 | http://dap.onc.uvic.ca/erddap                                      | 2.21          |
 | http://bmlsc.ucdavis.edu:8080/erddap                               | 1.82          |
