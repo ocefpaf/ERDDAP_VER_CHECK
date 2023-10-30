@@ -4,7 +4,7 @@
 | https://www.ncei.noaa.gov/erddap                                   | 2.23          |
 | https://www.ifremer.fr/erddap                                      | 2.18          |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.23          |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.21          |
 | https://spraydata.ucsd.edu/erddap                                  | 2.21          |
 | https://seagull-erddap.glos.org/erddap                             | 2.23          |
 | https://sccoos.org/erddap                                          | 1.82          |
@@ -30,7 +30,7 @@
 | https://erddap.marine.ie/erddap                                    | 2.14          |
 | https://erddap.maracoos.org/erddap                                 | 2.02          |
 | https://erddap.incois.gov.in/erddap                                | failed        |
-| https://erddap.ichec.ie/erddap                                     | failed        |
+| https://erddap.ichec.ie/erddap                                     | 1.82          |
 | https://erddap.griidc.org/erddap                                   | 2.02          |
 | https://erddap.gcoos.org/erddap                                    | 2.23          |
 | https://erddap.emodnet.eu/erddap                                   | 2.18          |
@@ -46,7 +46,7 @@
 | https://cwcgom.aoml.noaa.gov/erddap                                | 1.82          |
 | https://coastwatch.pfeg.noaa.gov/erddap                            | 2.23          |
 | https://coastwatch.noaa.gov/erddap                                 | 2.22          |
-| https://coastwatch.glerl.noaa.gov/erddap                           | 2.14          |
+| https://coastwatch.glerl.noaa.gov/erddap                           | 2.18          |
 | https://cioosatlantic.ca/erddap                                    | 2.18          |
 | https://catalogue.hakai.org/erddap                                 | 2.22          |
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.02          |
@@ -74,6 +74,6 @@
 | http://erddap.aoos.org/erddap                                      | 2.23          |
 | http://dm3.caricoos.org:8002/erddap                                | 1.82          |
 | http://data.nanoos.org/erddap                                      | 2.02          |
-| http://data.glos.us/erddap                                         | failed        |
+| http://data.glos.us/erddap                                         | 1.82          |
 | http://dap.onc.uvic.ca/erddap                                      | 2.21          |
 | http://bmlsc.ucdavis.edu:8080/erddap                               | 1.82          |
