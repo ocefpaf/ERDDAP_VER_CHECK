@@ -18,7 +18,7 @@
 | https://members.oceantrack.org/erddap                              | 2.17          |
 | https://jeodpp.jrc.ec.europa.eu/services/erddap                    | 2.18          |
 | https://gliders.ioos.us/erddap                                     | 2.18          |
-| https://geoport.usgs.esipfed.org/erddap                            | 2.23          |
+| https://geoport.usgs.esipfed.org/erddap                            | failed        |
 | https://gcoos5.geos.tamu.edu/erddap                                | 2.23          |
 | https://ferret.pmel.noaa.gov/socat/erddap                          | 2.18          |
 | https://ferret.pmel.noaa.gov/pmel/erddap                           | 2.18          |
@@ -30,7 +30,7 @@
 | https://erddap.marine.ie/erddap                                    | 2.14          |
 | https://erddap.maracoos.org/erddap                                 | 2.02          |
 | https://erddap.incois.gov.in/erddap                                | failed        |
-| https://erddap.ichec.ie/erddap                                     | 1.82          |
+| https://erddap.ichec.ie/erddap                                     | failed        |
 | https://erddap.griidc.org/erddap                                   | 2.02          |
 | https://erddap.gcoos.org/erddap                                    | 2.23          |
 | https://erddap.emodnet.eu/erddap                                   | 2.18          |
@@ -55,7 +55,7 @@
 | https://atn.ioos.us/erddap                                         | 2.23          |
 | https://apdrc.soest.hawaii.edu/erddap                              | 1.80          |
 | http://www.neracoos.org/erddap                                     | 1.82          |
-| http://www.myroms.org:8080/erddap                                  | 2.23          |
+| http://www.myroms.org:8080/erddap                                  | failed        |
 | http://tds.marine.rutgers.edu/erddap                               | 2.23          |
 | http://sfbaynutrients.sfei.org/erddap                              | 2.18          |
 | http://sccoos.org/erddap                                           | 2.18          |
@@ -73,7 +73,7 @@
 | http://erddap.axiomdatascience.com/erddap                          | 2.23          |
 | http://erddap.aoos.org/erddap                                      | 2.23          |
 | http://dm3.caricoos.org:8002/erddap                                | 1.82          |
-| http://data.nanoos.org/erddap                                      | 2.02          |
+| http://data.nanoos.org/erddap                                      | failed        |
 | http://data.glos.us/erddap                                         | failed        |
 | http://dap.onc.uvic.ca/erddap                                      | 2.21          |
 | http://bmlsc.ucdavis.edu:8080/erddap                               | 1.82          |
