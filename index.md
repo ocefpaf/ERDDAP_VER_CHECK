@@ -4,7 +4,7 @@
 | https://www.ncei.noaa.gov/erddap                                   | 2.23          |
 | https://www.ifremer.fr/erddap                                      | 2.18          |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.22          |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.23          |
 | https://spraydata.ucsd.edu/erddap                                  | 2.22          |
 | https://seagull-erddap.glos.org/erddap                             | 2.23          |
 | https://sccoos.org/erddap                                          | 1.82          |
@@ -24,13 +24,14 @@
 | https://ferret.pmel.noaa.gov/pmel/erddap                           | 2.18          |
 | https://ferret.pmel.noaa.gov/alamo/erddap                          | 2.23          |
 | https://erddap.sensors.ioos.us/erddap                              | 2.23          |
-| https://erddap.sccoos.org/erddap                                   | 2.23          |
+| https://erddap.sccoos.org/erddap                                   | failed        |
 | https://erddap.ogsl.ca/erddap                                      | 2.23          |
+| https://erddap.observations.voiceoftheocean.org/erddap             | 2.23          |
 | https://erddap.oa.iode.org/erddap                                  | 2.18          |
 | https://erddap.marine.ie/erddap                                    | 2.14          |
 | https://erddap.maracoos.org/erddap                                 | 2.02          |
 | https://erddap.incois.gov.in/erddap                                | failed        |
-| https://erddap.ichec.ie/erddap                                     | 1.82          |
+| https://erddap.ichec.ie/erddap                                     | failed        |
 | https://erddap.griidc.org/erddap                                   | 2.02          |
 | https://erddap.gcoos.org/erddap                                    | 2.23          |
 | https://erddap.emodnet.eu/erddap                                   | 2.18          |
@@ -48,7 +49,7 @@
 | https://coastwatch.noaa.gov/erddap                                 | 2.23          |
 | https://coastwatch.glerl.noaa.gov/erddap                           | 2.18          |
 | https://cioosatlantic.ca/erddap                                    | 2.18          |
-| https://catalogue.hakai.org/erddap                                 | 2.02          |
+| https://catalogue.hakai.org/erddap                                 | 2.22          |
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.02          |
 | https://bluehub.jrc.ec.europa.eu/erddap                            | failed        |
 | https://basin.ceoe.udel.edu/erddap                                 | failed        |
