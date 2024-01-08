@@ -1,6 +1,6 @@
 |                                                                    | version       |
 |:-------------------------------------------------------------------|:--------------|
-| https://www.smartatlantic.ca/erddap                                | failed        |
+| https://www.smartatlantic.ca/erddap                                | 2.23          |
 | https://www.ncei.noaa.gov/erddap                                   | 2.23          |
 | https://www.ifremer.fr/erddap                                      | 2.18          |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
@@ -31,7 +31,7 @@
 | https://erddap.marine.ie/erddap                                    | 2.14          |
 | https://erddap.maracoos.org/erddap                                 | 2.02          |
 | https://erddap.incois.gov.in/erddap                                | failed        |
-| https://erddap.ichec.ie/erddap                                     | 1.82          |
+| https://erddap.ichec.ie/erddap                                     | failed        |
 | https://erddap.griidc.org/erddap                                   | 2.02          |
 | https://erddap.gcoos.org/erddap                                    | 2.23          |
 | https://erddap.emodnet.eu/erddap                                   | 2.18          |
@@ -75,6 +75,6 @@
 | http://erddap.aoos.org/erddap                                      | 2.23          |
 | http://dm3.caricoos.org:8002/erddap                                | 1.82          |
 | http://data.nanoos.org/erddap                                      | 2.02          |
-| http://data.glos.us/erddap                                         | failed        |
+| http://data.glos.us/erddap                                         | 1.82          |
 | http://dap.onc.uvic.ca/erddap                                      | 2.21          |
 | http://bmlsc.ucdavis.edu:8080/erddap                               | 1.82          |
