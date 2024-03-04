@@ -4,12 +4,12 @@
 | https://www.ncei.noaa.gov/erddap                                   | 2.23          |
 | https://www.ifremer.fr/erddap                                      | 2.18          |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.23          |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.22          |
 | https://spraydata.ucsd.edu/erddap                                  | 2.22          |
 | https://seagull-erddap.glos.org/erddap                             | 2.23          |
 | https://sccoos.org/erddap                                          | 1.82          |
 | https://salishsea.eos.ubc.ca/erddap                                | 1.82          |
-| https://pub-data.diver.orr.noaa.gov/erddap                         | 2.23          |
+| https://pub-data.diver.orr.noaa.gov/erddap                         | failed        |
 | https://polarwatch.noaa.gov/erddap                                 | 2.23          |
 | https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.23          |
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18          |
@@ -58,9 +58,9 @@
 | http://www.neracoos.org/erddap                                     | 1.82          |
 | http://www.myroms.org:8080/erddap                                  | failed        |
 | http://tds.marine.rutgers.edu/erddap                               | 2.23          |
-| http://sfbaynutrients.sfei.org/erddap                              | 2.22          |
-| http://sccoos.org/erddap                                           | 2.22          |
-| http://osmc.noaa.gov/erddap                                        | 2.22          |
+| http://sfbaynutrients.sfei.org/erddap                              | failed        |
+| http://sccoos.org/erddap                                           | failed        |
+| http://osmc.noaa.gov/erddap                                        | failed        |
 | http://oos.soest.hawaii.edu/erddap                                 | failed        |
 | http://nrm-erddap.nci.org.au/erddap                                | failed        |
 | http://gcoos5.geos.tamu.edu:6060/erddap                            | failed        |
@@ -75,6 +75,6 @@
 | http://erddap.aoos.org/erddap                                      | 2.23          |
 | http://dm3.caricoos.org:8002/erddap                                | 1.82          |
 | http://data.nanoos.org/erddap                                      | 2.02          |
-| http://data.glos.us/erddap                                         | failed        |
+| http://data.glos.us/erddap                                         | 1.82          |
 | http://dap.onc.uvic.ca/erddap                                      | 2.21          |
 | http://bmlsc.ucdavis.edu:8080/erddap                               | 1.82          |
