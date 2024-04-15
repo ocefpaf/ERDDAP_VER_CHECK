@@ -58,9 +58,9 @@
 | http://www.neracoos.org/erddap                                     | 1.82          |
 | http://www.myroms.org:8080/erddap                                  | 2.23          |
 | http://tds.marine.rutgers.edu/erddap                               | 2.23          |
-| http://sfbaynutrients.sfei.org/erddap                              | failed        |
-| http://sccoos.org/erddap                                           | failed        |
-| http://osmc.noaa.gov/erddap                                        | failed        |
+| http://sfbaynutrients.sfei.org/erddap                              | 2.22          |
+| http://sccoos.org/erddap                                           | 2.22          |
+| http://osmc.noaa.gov/erddap                                        | 2.22          |
 | http://oos.soest.hawaii.edu/erddap                                 | failed        |
 | http://nrm-erddap.nci.org.au/erddap                                | failed        |
 | http://gcoos5.geos.tamu.edu:6060/erddap                            | failed        |
