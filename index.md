@@ -68,7 +68,7 @@
 | http://erddap.sochic-h2020.eu/erddap                               | 2.23          |
 | http://erddap.sensors.ioos.us/erddap                               | 2.23          |
 | http://erddap.secoora.org/erddap                                   | 2.23          |
-| http://erddap.emso.eu:8080/erddap                                  | 2.18          |
+| http://erddap.emso.eu:8080/erddap                                  | failed        |
 | http://erddap.emodnet-physics.eu/erddap                            | 2.23          |
 | http://erddap.cencoos.org/erddap                                   | 2.23          |
 | http://erddap.axiomdatascience.com/erddap                          | 2.23          |
