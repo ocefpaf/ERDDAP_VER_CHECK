@@ -15,7 +15,7 @@
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18          |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22          |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.18          |
-| https://members.oceantrack.org/erddap                              | failed        |
+| https://members.oceantrack.org/erddap                              | 2.23          |
 | https://jeodpp.jrc.ec.europa.eu/services/erddap                    | 2.23          |
 | https://gliders.ioos.us/erddap                                     | 2.23          |
 | https://geoport.usgs.esipfed.org/erddap                            | 2.23          |
