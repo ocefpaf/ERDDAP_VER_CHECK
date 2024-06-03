@@ -2,9 +2,9 @@
 |:-------------------------------------------------------------------|:--------------|
 | https://www.smartatlantic.ca/erddap                                | 2.23          |
 | https://www.ncei.noaa.gov/erddap                                   | 2.23          |
-| https://www.ifremer.fr/erddap                                      | failed        |
+| https://www.ifremer.fr/erddap                                      | 2.18          |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.22          |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.23          |
 | https://spraydata.ucsd.edu/erddap                                  | 2.22          |
 | https://seagull-erddap.glos.org/erddap                             | 2.23          |
 | https://sccoos.org/erddap                                          | 1.82          |
@@ -47,7 +47,7 @@
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
 | https://coastwatch.pfeg.noaa.gov/erddap                            | 2.23          |
 | https://coastwatch.noaa.gov/erddap                                 | 2.23          |
-| https://coastwatch.glerl.noaa.gov/erddap                           | 2.18          |
+| https://coastwatch.glerl.noaa.gov/erddap                           | failed        |
 | https://cioosatlantic.ca/erddap                                    | 2.18          |
 | https://catalogue.hakai.org/erddap                                 | 2.22          |
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.02          |
@@ -58,9 +58,9 @@
 | http://www.neracoos.org/erddap                                     | 1.82          |
 | http://www.myroms.org:8080/erddap                                  | 2.23          |
 | http://tds.marine.rutgers.edu/erddap                               | 2.23          |
-| http://sfbaynutrients.sfei.org/erddap                              | 2.22          |
-| http://sccoos.org/erddap                                           | 2.22          |
-| http://osmc.noaa.gov/erddap                                        | 2.22          |
+| http://sfbaynutrients.sfei.org/erddap                              | failed        |
+| http://sccoos.org/erddap                                           | failed        |
+| http://osmc.noaa.gov/erddap                                        | failed        |
 | http://oos.soest.hawaii.edu/erddap                                 | failed        |
 | http://nrm-erddap.nci.org.au/erddap                                | failed        |
 | http://gcoos5.geos.tamu.edu:6060/erddap                            | failed        |
@@ -77,4 +77,4 @@
 | http://data.nanoos.org/erddap                                      | 2.02          |
 | http://data.glos.us/erddap                                         | 1.82          |
 | http://dap.onc.uvic.ca/erddap                                      | 2.21          |
-| http://bmlsc.ucdavis.edu:8080/erddap                               | 1.82          |
+| http://bmlsc.ucdavis.edu:8080/erddap                               | failed        |
