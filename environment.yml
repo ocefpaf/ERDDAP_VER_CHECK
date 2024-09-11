@@ -2,11 +2,12 @@ name: ERDDAP_VER_CHECK
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.12
   - erddapy
   - httpx
-  - jupyter
+  - nbclassic
   - nbconvert
   - pandas
   - tabulate
-  - tqdm
+platforms:
+  - linux-64
