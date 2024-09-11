@@ -4,7 +4,7 @@
 | https://www.ncei.noaa.gov/erddap                                   | 2.23          |
 | https://www.ifremer.fr/erddap                                      | 2.18          |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.24          |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.22          |
 | https://spraydata.ucsd.edu/erddap                                  | 2.22          |
 | https://seagull-erddap.glos.org/erddap                             | 2.23          |
 | https://sccoos.org/erddap                                          | 1.82          |
@@ -45,7 +45,7 @@
 | https://data.ioos.us/gliders/erddap                                | 2.23          |
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
-| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.24          |
+| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.23          |
 | https://coastwatch.noaa.gov/erddap                                 | 2.23          |
 | https://coastwatch.glerl.noaa.gov/erddap                           | 2.23          |
 | https://cioosatlantic.ca/erddap                                    | 2.23          |
@@ -56,7 +56,7 @@
 | https://atn.ioos.us/erddap                                         | 2.23          |
 | https://apdrc.soest.hawaii.edu/erddap                              | 1.80          |
 | http://www.neracoos.org/erddap                                     | 1.82          |
-| http://www.myroms.org:8080/erddap                                  | 2.23          |
+| http://www.myroms.org:8080/erddap                                  | failed        |
 | http://tds.marine.rutgers.edu/erddap                               | 2.24          |
 | http://sfbaynutrients.sfei.org/erddap                              | 2.24          |
 | http://sccoos.org/erddap                                           | 2.24          |
