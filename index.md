@@ -4,7 +4,7 @@
 | https://www.ncei.noaa.gov/erddap                                   | 2.23          |
 | https://www.ifremer.fr/erddap                                      | 2.18          |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.24          |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.22          |
 | https://spraydata.ucsd.edu/erddap                                  | 2.22          |
 | https://seagull-erddap.glos.org/erddap                             | 2.23          |
 | https://sccoos.org/erddap                                          | 1.82          |
@@ -24,7 +24,7 @@
 | https://ferret.pmel.noaa.gov/pmel/erddap                           | 2.18          |
 | https://ferret.pmel.noaa.gov/alamo/erddap                          | 2.23          |
 | https://erddap.sensors.ioos.us/erddap                              | 2.23          |
-| https://erddap.sccoos.org/erddap                                   | failed        |
+| https://erddap.sccoos.org/erddap                                   | 2.24          |
 | https://erddap.ogsl.ca/erddap                                      | 2.24          |
 | https://erddap.observations.voiceoftheocean.org/erddap             | 2.23          |
 | https://erddap.oa.iode.org/erddap                                  | 2.18          |
@@ -45,7 +45,7 @@
 | https://data.ioos.us/gliders/erddap                                | 2.23          |
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
-| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.24          |
+| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.23          |
 | https://coastwatch.noaa.gov/erddap                                 | 2.23          |
 | https://coastwatch.glerl.noaa.gov/erddap                           | 2.23          |
 | https://cioosatlantic.ca/erddap                                    | 2.23          |
