@@ -1,12 +1,12 @@
 |                                                                    | version       |
 |:-------------------------------------------------------------------|:--------------|
-| https://www.smartatlantic.ca/erddap                                | 2.23          |
-| https://www.ncei.noaa.gov/erddap                                   | 2.23          |
+| https://www.smartatlantic.ca/erddap                                | failed        |
+| https://www.ncei.noaa.gov/erddap                                   | failed        |
 | https://www.ifremer.fr/erddap                                      | 2.18          |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
 | https://upwell.pfeg.noaa.gov/erddap                                | 2.22          |
 | https://spraydata.ucsd.edu/erddap                                  | 2.22          |
-| https://seagull-erddap.glos.org/erddap                             | 2.23          |
+| https://seagull-erddap.glos.org/erddap                             | 2.24          |
 | https://sccoos.org/erddap                                          | 1.82          |
 | https://salishsea.eos.ubc.ca/erddap                                | 1.82          |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | 2.22          |
@@ -49,7 +49,7 @@
 | https://coastwatch.noaa.gov/erddap                                 | 2.23          |
 | https://coastwatch.glerl.noaa.gov/erddap                           | 2.23          |
 | https://cioosatlantic.ca/erddap                                    | 2.23          |
-| https://catalogue.hakai.org/erddap                                 | 2.22          |
+| https://catalogue.hakai.org/erddap                                 | 2.24          |
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.02          |
 | https://bluehub.jrc.ec.europa.eu/erddap                            | failed        |
 | https://basin.ceoe.udel.edu/erddap                                 | failed        |
