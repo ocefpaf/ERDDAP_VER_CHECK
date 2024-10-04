@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Micromamba Python
-        uses: mamba-org/setup-micromamba@v1
+        uses: mamba-org/setup-micromamba@v2
         with:
           environment-name: ERDDAP_VER_CHECK
           environment-file: conda-lock.yml
