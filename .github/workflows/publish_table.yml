@@ -16,17 +16,8 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Micromamba Python
-        uses: mamba-org/setup-micromamba@v1
-        with:
-          environment-name: ERDDAP_VER_CHECK
-          environment-file: conda-lock.yml
-          init-shell: bash
-
-      - name: Build table
-        shell: bash -l {0}
-        run: |
-          jupyter nbconvert --to notebook --execute erddap_server_versions.ipynb --output=erddap_server_versions-output.ipynb
+      - uses: prefix-dev/setup-pixi@v0.8.1
+      - run: pixi run erddap_ver_check
 
       - name: Publish Table
         if: github.ref == 'refs/heads/main'
