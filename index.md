@@ -12,7 +12,7 @@
 | https://pub-data.diver.orr.noaa.gov/erddap                         | 2.22          |
 | https://polarwatch.noaa.gov/erddap                                 | 2.24          |
 | https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.24          |
-| https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18          |
+| https://opendap.co-ops.nos.noaa.gov/erddap                         | failed        |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22          |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.24          |
 | https://members.oceantrack.org/erddap                              | 2.23          |
@@ -32,7 +32,7 @@
 | https://erddap.maracoos.org/erddap                                 | 2.02          |
 | https://erddap.incois.gov.in/erddap                                | failed        |
 | https://erddap.ichec.ie/erddap                                     | failed        |
-| https://erddap.griidc.org/erddap                                   | failed        |
+| https://erddap.griidc.org/erddap                                   | 2.02          |
 | https://erddap.gcoos.org/erddap                                    | 2.23          |
 | https://erddap.emodnet.eu/erddap                                   | 2.18          |
 | https://erddap.emodnet-physics.eu/erddap                           | 2.23          |
@@ -75,6 +75,6 @@
 | http://erddap.aoos.org/erddap                                      | 2.23          |
 | http://dm3.caricoos.org:8002/erddap                                | 1.82          |
 | http://data.nanoos.org/erddap                                      | 2.24          |
-| http://data.glos.us/erddap                                         | 2.21          |
+| http://data.glos.us/erddap                                         | failed        |
 | http://dap.onc.uvic.ca/erddap                                      | 2.21          |
 | http://bmlsc.ucdavis.edu:8080/erddap                               | 1.82          |
