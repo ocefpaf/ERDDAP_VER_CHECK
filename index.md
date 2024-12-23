@@ -4,14 +4,14 @@
 | https://www.ncei.noaa.gov/erddap                                   | 2.23          |
 | https://www.ifremer.fr/erddap                                      | 2.24          |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.25_1        |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.22          |
 | https://spraydata.ucsd.edu/erddap                                  | 2.22          |
 | https://seagull-erddap.glos.org/erddap                             | 2.24          |
 | https://sccoos.org/erddap                                          | 1.82          |
 | https://salishsea.eos.ubc.ca/erddap                                | 1.82          |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | 2.22          |
 | https://polarwatch.noaa.gov/erddap                                 | 2.25_1        |
-| https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.24          |
+| https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.25_1        |
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18          |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22          |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.25_1        |
@@ -19,7 +19,7 @@
 | https://linkedsystems.uk/erddap                                    | 2.25          |
 | https://jeodpp.jrc.ec.europa.eu/services/erddap                    | 2.23          |
 | https://gliders.ioos.us/erddap                                     | 2.23          |
-| https://geoport.usgs.esipfed.org/erddap                            | failed        |
+| https://geoport.usgs.esipfed.org/erddap                            | 2.23          |
 | https://gcoos5.geos.tamu.edu/erddap                                | 2.25_1        |
 | https://ferret.pmel.noaa.gov/socat/erddap                          | 2.18          |
 | https://ferret.pmel.noaa.gov/pmel/erddap                           | 2.18          |
@@ -46,7 +46,7 @@
 | https://data.ioos.us/gliders/erddap                                | 2.23          |
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
-| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.25_1        |
+| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.23          |
 | https://coastwatch.noaa.gov/erddap                                 | 2.23          |
 | https://coastwatch.glerl.noaa.gov/erddap                           | 2.23          |
 | https://cioosatlantic.ca/erddap                                    | 2.23          |
