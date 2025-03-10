@@ -1,7 +1,7 @@
 |                                                                    | version       |
 |:-------------------------------------------------------------------|:--------------|
-| https://www.smartatlantic.ca/erddap                                | failed        |
-| https://www.ncei.noaa.gov/erddap                                   | failed        |
+| https://www.smartatlantic.ca/erddap                                | 2.23          |
+| https://www.ncei.noaa.gov/erddap                                   | 2.23          |
 | https://www.ifremer.fr/erddap                                      | 2.25_1        |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
 | https://upwell.pfeg.noaa.gov/erddap                                | 2.25_1        |
@@ -46,11 +46,11 @@
 | https://data.ioos.us/gliders/erddap                                | 2.25_1        |
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
-| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.25_1        |
+| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.26          |
 | https://coastwatch.noaa.gov/erddap                                 | 2.23          |
 | https://coastwatch.glerl.noaa.gov/erddap                           | 2.23          |
 | https://cioosatlantic.ca/erddap                                    | 2.23          |
-| https://catalogue.hakai.org/erddap                                 | 2.24          |
+| https://catalogue.hakai.org/erddap                                 | failed        |
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.02          |
 | https://bluehub.jrc.ec.europa.eu/erddap                            | 2.14          |
 | https://basin.ceoe.udel.edu/erddap                                 | 2.14          |
