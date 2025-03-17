@@ -15,7 +15,7 @@
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18          |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22          |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.25_1        |
-| https://members.oceantrack.org/erddap                              | failed        |
+| https://members.oceantrack.org/erddap                              | 2.23          |
 | https://linkedsystems.uk/erddap                                    | 2.25          |
 | https://jeodpp.jrc.ec.europa.eu/services/erddap                    | 2.25_1        |
 | https://gliders.ioos.us/erddap                                     | 2.25_1        |
@@ -50,7 +50,7 @@
 | https://coastwatch.noaa.gov/erddap                                 | 2.23          |
 | https://coastwatch.glerl.noaa.gov/erddap                           | 2.23          |
 | https://cioosatlantic.ca/erddap                                    | 2.23          |
-| https://catalogue.hakai.org/erddap                                 | failed        |
+| https://catalogue.hakai.org/erddap                                 | 2.24          |
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.02          |
 | https://bluehub.jrc.ec.europa.eu/erddap                            | 2.14          |
 | https://basin.ceoe.udel.edu/erddap                                 | 2.14          |
@@ -74,7 +74,7 @@
 | http://erddap.cencoos.org/erddap                                   | 2.25_1        |
 | http://erddap.axiomdatascience.com/erddap                          | 2.25_1        |
 | http://erddap.aoos.org/erddap                                      | 2.25_1        |
-| http://dm3.caricoos.org:8002/erddap                                | 1.82          |
+| http://dm3.caricoos.org:8002/erddap                                | 2.25_1        |
 | http://data.nanoos.org/erddap                                      | 2.25_1        |
 | http://data.glos.us/erddap                                         | failed        |
 | http://dap.onc.uvic.ca/erddap                                      | 2.21          |
