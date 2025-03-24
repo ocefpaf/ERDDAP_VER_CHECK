@@ -43,13 +43,13 @@
 | https://erddap-uncabled.oceanobservatories.org/uncabled/erddap     | failed        |
 | https://erddap-goldcopy.dataexplorer.oceanobservatories.org/erddap | 2.02_axiom-r1 |
 | https://ecowatch.ncddc.noaa.gov/erddap                             | failed        |
-| https://data.ioos.us/gliders/erddap                                | 2.25_1        |
+| https://data.ioos.us/gliders/erddap                                | failed        |
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
 | https://coastwatch.pfeg.noaa.gov/erddap                            | 2.26          |
 | https://coastwatch.noaa.gov/erddap                                 | 2.23          |
-| https://coastwatch.glerl.noaa.gov/erddap                           | 2.23          |
-| https://cioosatlantic.ca/erddap                                    | 2.23          |
+| https://coastwatch.glerl.noaa.gov/erddap                           | 2.25_1        |
+| https://cioosatlantic.ca/erddap                                    | 2.25_1        |
 | https://catalogue.hakai.org/erddap                                 | 2.24          |
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.02          |
 | https://bluehub.jrc.ec.europa.eu/erddap                            | 2.14          |
