@@ -43,7 +43,8 @@
 | https://erddap-uncabled.oceanobservatories.org/uncabled/erddap     | failed        |
 | https://erddap-goldcopy.dataexplorer.oceanobservatories.org/erddap | 2.02_axiom-r1 |
 | https://ecowatch.ncddc.noaa.gov/erddap                             | failed        |
-| https://data.ioos.us/gliders/erddap                                | failed        |
+| https://data.neracoos.org/erddap                                   | 2.24          |
+| https://data.ioos.us/gliders/erddap                                | 2.25_1        |
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
 | https://coastwatch.pfeg.noaa.gov/erddap                            | 2.26          |
@@ -74,7 +75,7 @@
 | http://erddap.cencoos.org/erddap                                   | 2.25_1        |
 | http://erddap.axiomdatascience.com/erddap                          | 2.25_1        |
 | http://erddap.aoos.org/erddap                                      | 2.25_1        |
-| http://dm3.caricoos.org:8002/erddap                                | 2.25_1        |
+| http://dm3.caricoos.org:8002/erddap                                | 2.18          |
 | http://data.nanoos.org/erddap                                      | 2.25_1        |
 | http://data.glos.us/erddap                                         | failed        |
 | http://dap.onc.uvic.ca/erddap                                      | 2.21          |
