@@ -9,7 +9,7 @@
 | https://seagull-erddap.glos.org/erddap                             | 2.24          |
 | https://sccoos.org/erddap                                          | 1.82          |
 | https://salishsea.eos.ubc.ca/erddap                                | 1.82          |
-| https://pub-data.diver.orr.noaa.gov/erddap                         | 2.22          |
+| https://pub-data.diver.orr.noaa.gov/erddap                         | 2.26          |
 | https://polarwatch.noaa.gov/erddap                                 | 2.26          |
 | https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.25_1        |
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18          |
