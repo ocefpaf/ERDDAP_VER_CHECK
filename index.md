@@ -2,9 +2,9 @@
 |:-------------------------------------------------------------------|:--------------|
 | https://www.smartatlantic.ca/erddap                                | 2.23          |
 | https://www.ncei.noaa.gov/erddap                                   | 2.23          |
-| https://www.ifremer.fr/erddap                                      | failed        |
+| https://www.ifremer.fr/erddap                                      | 2.25_1        |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.27.0        |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.22          |
 | https://spraydata.ucsd.edu/erddap                                  | 2.22          |
 | https://seagull-erddap.glos.org/erddap                             | 2.26          |
 | https://sccoos.org/erddap                                          | 2.26          |
@@ -59,7 +59,7 @@
 | https://apdrc.soest.hawaii.edu/erddap                              | 1.80          |
 | http://www.neracoos.org/erddap                                     | 1.82          |
 | http://www.myroms.org:8080/erddap                                  | failed        |
-| http://tds.marine.rutgers.edu/erddap                               | 2.26          |
+| http://tds.marine.rutgers.edu/erddap                               | 2.27.0        |
 | http://sfbaynutrients.sfei.org/erddap                              | 2.24          |
 | http://sccoos.org/erddap                                           | 2.24          |
 | http://osmc.noaa.gov/erddap                                        | 2.24          |
