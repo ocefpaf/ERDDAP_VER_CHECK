@@ -4,7 +4,7 @@
 | https://www.ncei.noaa.gov/erddap                                   | 2.23          |
 | https://www.ifremer.fr/erddap                                      | 2.27.0        |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.22          |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.27.0        |
 | https://spraydata.ucsd.edu/erddap                                  | 2.22          |
 | https://seagull-erddap.glos.org/erddap                             | 2.26          |
 | https://sccoos.org/erddap                                          | 2.26          |
@@ -44,7 +44,7 @@
 | https://erddap-goldcopy.dataexplorer.oceanobservatories.org/erddap | 2.02_axiom-r1 |
 | https://ecowatch.ncddc.noaa.gov/erddap                             | failed        |
 | https://data.neracoos.org/erddap                                   | 2.27.0        |
-| https://data.ioos.us/gliders/erddap                                | failed        |
+| https://data.ioos.us/gliders/erddap                                | 2.25_1        |
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
 | https://coastwatch.pfeg.noaa.gov/erddap                            | 2.27.0        |
