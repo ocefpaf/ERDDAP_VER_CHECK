@@ -6,7 +6,7 @@
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
 | https://upwell.pfeg.noaa.gov/erddap                                | 2.27.0        |
 | https://spraydata.ucsd.edu/erddap                                  | 2.22          |
-| https://seagull-erddap.glos.org/erddap                             | 2.26          |
+| https://seagull-erddap.glos.org/erddap                             | 2.27.0        |
 | https://sccoos.org/erddap                                          | 2.26          |
 | https://salishsea.eos.ubc.ca/erddap                                | 2.26          |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | 2.26          |
@@ -20,7 +20,7 @@
 | https://jeodpp.jrc.ec.europa.eu/services/erddap                    | 2.25_1        |
 | https://gliders.ioos.us/erddap                                     | 2.25_1        |
 | https://geoport.usgs.esipfed.org/erddap                            | 2.23          |
-| https://gcoos5.geos.tamu.edu/erddap                                | 2.25_1        |
+| https://gcoos5.geos.tamu.edu/erddap                                | 2.27.0        |
 | https://ferret.pmel.noaa.gov/socat/erddap                          | 2.18          |
 | https://ferret.pmel.noaa.gov/pmel/erddap                           | 2.18          |
 | https://ferret.pmel.noaa.gov/alamo/erddap                          | 2.23          |
