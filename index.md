@@ -26,7 +26,7 @@
 | https://ferret.pmel.noaa.gov/alamo/erddap                          | 2.23          |
 | https://erddap.sensors.ioos.us/erddap                              | 2.25_1        |
 | https://erddap.sccoos.org/erddap                                   | 2.24          |
-| https://erddap.ogsl.ca/erddap                                      | 2.26          |
+| https://erddap.ogsl.ca/erddap                                      | 2.23          |
 | https://erddap.observations.voiceoftheocean.org/erddap             | 2.23          |
 | https://erddap.oa.iode.org/erddap                                  | 2.14          |
 | https://erddap.marine.ie/erddap                                    | 2.14          |
