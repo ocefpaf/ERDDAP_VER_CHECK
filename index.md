@@ -2,7 +2,7 @@
 |:-------------------------------------------------------------------|:--------------|
 | https://www.smartatlantic.ca/erddap                                | 2.23          |
 | https://www.ncei.noaa.gov/erddap                                   | 2.23          |
-| https://www.ifremer.fr/erddap                                      | failed        |
+| https://www.ifremer.fr/erddap                                      | 2.27.0        |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
 | https://upwell.pfeg.noaa.gov/erddap                                | 2.27.0        |
 | https://spraydata.ucsd.edu/erddap                                  | 2.22          |
@@ -48,7 +48,7 @@
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
 | https://coastwatch.pfeg.noaa.gov/erddap                            | 2.28.0        |
-| https://coastwatch.noaa.gov/erddap                                 | failed        |
+| https://coastwatch.noaa.gov/erddap                                 | 2.27.0        |
 | https://coastwatch.glerl.noaa.gov/erddap                           | 2.25_1        |
 | https://cioosatlantic.ca/erddap                                    | 2.25_1        |
 | https://catalogue.hakai.org/erddap                                 | 2.25_1        |
