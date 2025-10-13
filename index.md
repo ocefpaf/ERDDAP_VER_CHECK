@@ -26,7 +26,7 @@
 | https://ferret.pmel.noaa.gov/alamo/erddap                          | 2.28.1        |
 | https://erddap.sensors.ioos.us/erddap                              | 2.28.1        |
 | https://erddap.sccoos.org/erddap                                   | 2.24          |
-| https://erddap.ogsl.ca/erddap                                      | 2.23          |
+| https://erddap.ogsl.ca/erddap                                      | 2.26          |
 | https://erddap.observations.voiceoftheocean.org/erddap             | 2.23          |
 | https://erddap.oa.iode.org/erddap                                  | 2.14          |
 | https://erddap.marine.ie/erddap                                    | 2.14          |
@@ -44,7 +44,7 @@
 | https://erddap-goldcopy.dataexplorer.oceanobservatories.org/erddap | 2.02_axiom-r1 |
 | https://ecowatch.ncddc.noaa.gov/erddap                             | failed        |
 | https://data.neracoos.org/erddap                                   | 2.28.0        |
-| https://data.ioos.us/gliders/erddap                                | 2.28.1        |
+| https://data.ioos.us/gliders/erddap                                | failed        |
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
 | https://coastwatch.pfeg.noaa.gov/erddap                            | 2.28.1        |
@@ -75,7 +75,7 @@
 | http://erddap.cencoos.org/erddap                                   | 2.28.1        |
 | http://erddap.axiomdatascience.com/erddap                          | 2.28.1        |
 | http://erddap.aoos.org/erddap                                      | 2.28.1        |
-| http://dm3.caricoos.org:8002/erddap                                | failed        |
+| http://dm3.caricoos.org:8002/erddap                                | 2.28.1        |
 | http://data.nanoos.org/erddap                                      | failed        |
 | http://data.glos.us/erddap                                         | failed        |
 | http://dap.onc.uvic.ca/erddap                                      | 2.27.0        |
