@@ -30,7 +30,7 @@
 | https://erddap.observations.voiceoftheocean.org/erddap             | 2.23          |
 | https://erddap.oa.iode.org/erddap                                  | 2.14          |
 | https://erddap.marine.ie/erddap                                    | 2.14          |
-| https://erddap.maracoos.org/erddap                                 | failed        |
+| https://erddap.maracoos.org/erddap                                 | 2.25_1        |
 | https://erddap.incois.gov.in/erddap                                | failed        |
 | https://erddap.ichec.ie/erddap                                     | failed        |
 | https://erddap.griidc.org/erddap                                   | 2.02          |
