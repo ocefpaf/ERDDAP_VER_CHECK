@@ -13,7 +13,7 @@
 | https://polarwatch.noaa.gov/erddap                                 | 2.28.0        |
 | https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.25_1        |
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18          |
-| https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22          |
+| https://oceanwatch.pifsc.noaa.gov/erddap                           | failed        |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.28.1        |
 | https://members.oceantrack.org/erddap                              | 2.23          |
 | https://linkedsystems.uk/erddap                                    | 2.27.0        |
@@ -75,7 +75,7 @@
 | http://erddap.cencoos.org/erddap                                   | 2.28.1        |
 | http://erddap.axiomdatascience.com/erddap                          | 2.28.1        |
 | http://erddap.aoos.org/erddap                                      | 2.28.1        |
-| http://dm3.caricoos.org:8002/erddap                                | 2.28.1        |
+| http://dm3.caricoos.org:8002/erddap                                | failed        |
 | http://data.nanoos.org/erddap                                      | failed        |
 | http://data.glos.us/erddap                                         | failed        |
 | http://dap.onc.uvic.ca/erddap                                      | 2.27.0        |
