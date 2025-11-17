@@ -48,7 +48,7 @@
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
 | https://coastwatch.pfeg.noaa.gov/erddap                            | 2.28.1        |
-| https://coastwatch.noaa.gov/erddap                                 | 2.25_1        |
+| https://coastwatch.noaa.gov/erddap                                 | 2.28.0        |
 | https://coastwatch.glerl.noaa.gov/erddap                           | 2.25_1        |
 | https://cioosatlantic.ca/erddap                                    | 2.25_1        |
 | https://catalogue.hakai.org/erddap                                 | 2.25_1        |
@@ -75,7 +75,7 @@
 | http://erddap.cencoos.org/erddap                                   | 2.28.1        |
 | http://erddap.axiomdatascience.com/erddap                          | 2.28.1        |
 | http://erddap.aoos.org/erddap                                      | 2.28.1        |
-| http://dm3.caricoos.org:8002/erddap                                | 2.28.1        |
+| http://dm3.caricoos.org:8002/erddap                                | failed        |
 | http://data.nanoos.org/erddap                                      | failed        |
 | http://data.glos.us/erddap                                         | failed        |
 | http://dap.onc.uvic.ca/erddap                                      | 2.27.0        |
