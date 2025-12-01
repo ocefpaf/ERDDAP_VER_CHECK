@@ -5,8 +5,8 @@
 | https://www.ifremer.fr/erddap                                      | 2.27.0        |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
 | https://upwell.pfeg.noaa.gov/erddap                                | 2.28.1        |
-| https://spraydata.ucsd.edu/erddap                                  | 2.28.1        |
-| https://seagull-erddap.glos.org/erddap                             | 2.27.0        |
+| https://spraydata.ucsd.edu/erddap                                  | failed        |
+| https://seagull-erddap.glos.org/erddap                             | failed        |
 | https://sccoos.org/erddap                                          | 2.26          |
 | https://salishsea.eos.ubc.ca/erddap                                | 2.26          |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | 2.26          |
