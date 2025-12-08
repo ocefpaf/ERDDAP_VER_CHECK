@@ -5,8 +5,8 @@
 | https://www.ifremer.fr/erddap                                      | 2.27.0        |
 | https://wilson.coas.oregonstate.edu/erddap                         | failed        |
 | https://upwell.pfeg.noaa.gov/erddap                                | 2.28.1        |
-| https://spraydata.ucsd.edu/erddap                                  | failed        |
-| https://seagull-erddap.glos.org/erddap                             | failed        |
+| https://spraydata.ucsd.edu/erddap                                  | 2.28.1        |
+| https://seagull-erddap.glos.org/erddap                             | 2.27.0        |
 | https://sccoos.org/erddap                                          | 2.26          |
 | https://salishsea.eos.ubc.ca/erddap                                | 2.26          |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | 2.26          |
@@ -47,10 +47,10 @@
 | https://data.ioos.us/gliders/erddap                                | failed        |
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
-| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.28.1        |
+| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.29.0        |
 | https://coastwatch.noaa.gov/erddap                                 | 2.28.0        |
-| https://coastwatch.glerl.noaa.gov/erddap                           | 2.25_1        |
-| https://cioosatlantic.ca/erddap                                    | 2.25_1        |
+| https://coastwatch.glerl.noaa.gov/erddap                           | 2.23          |
+| https://cioosatlantic.ca/erddap                                    | 2.23          |
 | https://catalogue.hakai.org/erddap                                 | 2.25_1        |
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.02          |
 | https://bluehub.jrc.ec.europa.eu/erddap                            | 2.28.1        |
@@ -60,9 +60,9 @@
 | http://www.neracoos.org/erddap                                     | 1.82          |
 | http://www.myroms.org:8080/erddap                                  | failed        |
 | http://tds.marine.rutgers.edu/erddap                               | 2.28.1        |
-| http://sfbaynutrients.sfei.org/erddap                              | 2.27.0        |
-| http://sccoos.org/erddap                                           | 2.27.0        |
-| http://osmc.noaa.gov/erddap                                        | 2.27.0        |
+| http://sfbaynutrients.sfei.org/erddap                              | failed        |
+| http://sccoos.org/erddap                                           | failed        |
+| http://osmc.noaa.gov/erddap                                        | failed        |
 | http://oos.soest.hawaii.edu/erddap                                 | failed        |
 | http://nrm-erddap.nci.org.au/erddap                                | failed        |
 | http://gcoos5.geos.tamu.edu:6060/erddap                            | failed        |
