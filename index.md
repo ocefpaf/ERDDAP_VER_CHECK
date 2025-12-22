@@ -5,10 +5,10 @@
 | https://www.ifremer.fr/erddap                                      | 2.27.0        |
 | https://upwell.pfeg.noaa.gov/erddap                                | 2.28.1        |
 | https://spraydata.ucsd.edu/erddap                                  | 2.28.1        |
-| https://seagull-erddap.glos.org/erddap                             | failed        |
-| https://sccoos.org/erddap                                          | 2.26          |
-| https://salishsea.eos.ubc.ca/erddap                                | 2.26          |
-| https://pub-data.diver.orr.noaa.gov/erddap                         | 2.26          |
+| https://seagull-erddap.glos.org/erddap                             | 2.29.0        |
+| https://sccoos.org/erddap                                          | failed        |
+| https://salishsea.eos.ubc.ca/erddap                                | failed        |
+| https://pub-data.diver.orr.noaa.gov/erddap                         | failed        |
 | https://polarwatch.noaa.gov/erddap                                 | 2.28.0        |
 | https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.28.1        |
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18          |
@@ -18,7 +18,7 @@
 | https://linkedsystems.uk/erddap                                    | 2.27.0        |
 | https://gliders.ioos.us/erddap                                     | 2.28.1        |
 | https://geoport.usgs.esipfed.org/erddap                            | 2.23          |
-| https://gcoos5.geos.tamu.edu/erddap                                | 2.28.1        |
+| https://gcoos5.geos.tamu.edu/erddap                                | failed        |
 | https://ferret.pmel.noaa.gov/socat/erddap                          | 2.27.0        |
 | https://ferret.pmel.noaa.gov/alamo/erddap                          | 2.28.1        |
 | https://erddap.sensors.ioos.us/erddap                              | 2.28.1        |
@@ -40,7 +40,7 @@
 | https://erddap-goldcopy.dataexplorer.oceanobservatories.org/erddap | 2.02_axiom-r1 |
 | https://ecowatch.ncddc.noaa.gov/erddap                             | failed        |
 | https://data.pmel.noaa.gov/pmel/erddap                             | 2.27.0        |
-| https://data.neracoos.org/erddap                                   | 2.28.0        |
+| https://data.neracoos.org/erddap                                   | 2.29.0        |
 | https://data.ioos.us/gliders/erddap                                | failed        |
 | https://data.cioospacific.ca/erddap                                | 2.23          |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23          |
@@ -52,10 +52,10 @@
 | https://basin.ceoe.udel.edu/erddap                                 | 2.28.1        |
 | https://atn.ioos.us/erddap                                         | 2.28.1        |
 | https://apps.glerl.noaa.gov/erddap                                 | 2.23          |
-| https://apdrc.soest.hawaii.edu/erddap                              | 1.80          |
+| https://apdrc.soest.hawaii.edu/erddap                              | failed        |
 | http://www.neracoos.org/erddap                                     | 1.82          |
 | http://www.myroms.org:8080/erddap                                  | failed        |
-| http://tds.marine.rutgers.edu/erddap                               | 2.28.1        |
+| http://tds.marine.rutgers.edu/erddap                               | 2.29.0        |
 | http://sfbaynutrients.sfei.org/erddap                              | 2.27.0        |
 | http://sccoos.org/erddap                                           | 2.27.0        |
 | http://osmc.noaa.gov/erddap                                        | 2.27.0        |
