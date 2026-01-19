@@ -43,8 +43,8 @@
 | https://data.pmel.noaa.gov/pmel/erddap                             | 2.27.0       |
 | https://data.neracoos.org/erddap                                   | 2.29.0       |
 | https://data.ioos.us/gliders/erddap                                | failed       |
-| https://data.cioospacific.ca/erddap                                | 2.23         |
-| https://cwcgom.aoml.noaa.gov/erddap                                | failed       |
+| https://data.cioospacific.ca/erddap                                | failed       |
+| https://cwcgom.aoml.noaa.gov/erddap                                | 2.23         |
 | https://coastwatch.pfeg.noaa.gov/erddap                            | 2.29.0       |
 | https://coastwatch.noaa.gov/erddap                                 | 2.29.0       |
 | https://cioosatlantic.ca/erddap                                    | 2.23         |
@@ -57,9 +57,9 @@
 | http://www.neracoos.org/erddap                                     | 1.82         |
 | http://www.myroms.org:8080/erddap                                  | failed       |
 | http://tds.marine.rutgers.edu/erddap                               | 2.29.0       |
-| http://sfbaynutrients.sfei.org/erddap                              | 2.27.0       |
-| http://sccoos.org/erddap                                           | 2.27.0       |
-| http://osmc.noaa.gov/erddap                                        | 2.27.0       |
+| http://sfbaynutrients.sfei.org/erddap                              | failed       |
+| http://sccoos.org/erddap                                           | failed       |
+| http://osmc.noaa.gov/erddap                                        | failed       |
 | http://oos.soest.hawaii.edu/erddap                                 | failed       |
 | http://gcoos5.geos.tamu.edu:6060/erddap                            | failed       |
 | http://gcoos4.tamu.edu:8080/erddap                                 | failed       |
