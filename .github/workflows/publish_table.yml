@@ -6,22 +6,30 @@ on:
   schedule:
     - cron: "0 0 * * MON"
 
+# no permissions by default
+permissions: {}
+
 jobs:
+
   build:
     name: Check ERDDAP servers versions
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8  # v6.0.1
         with:
           fetch-depth: 0
+          persist-credentials: false
 
-      - uses: prefix-dev/setup-pixi@v0.9.4
+      - uses: prefix-dev/setup-pixi@82d477f15f3a381dbcc8adc1206ce643fe110fb7  # v0.9.3
       - run: pixi run erddap_ver_check
 
       - name: Publish Table
         if: github.ref == 'refs/heads/main'
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@4f9cc6602d3f66b9c108549d475ec49e8ef4d45e  # v4.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: html/

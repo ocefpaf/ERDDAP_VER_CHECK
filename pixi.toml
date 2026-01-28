@@ -1,4 +1,4 @@
-[project]
+[workspace]
 authors = ["Filipe Fernandes <ocefpaf@gmail.com>"]
 channels = ["conda-forge"]
 description = "Cron job checking the deployed version of some ERDDAP servers out in the wild"
@@ -7,6 +7,7 @@ platforms = ["linux-64"]
 version = "1.0.0"
 
 [tasks]
+notebook = "jupyter nbclassic"
 erddap_ver_check = "jupyter nbconvert --to notebook --execute erddap_server_versions.ipynb --output=erddap_server_versions-output.ipynb"
 
 [dependencies]
