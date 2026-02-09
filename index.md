@@ -3,7 +3,7 @@
 | https://www.smartatlantic.ca/erddap                                | 2.23         |
 | https://www.ncei.noaa.gov/erddap                                   | 2.23         |
 | https://www.ifremer.fr/erddap                                      | 2.27.0       |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.28.1       |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.29.0       |
 | https://spraydata.ucsd.edu/erddap                                  | 2.28.1       |
 | https://seagull-erddap.glos.org/erddap                             | 2.29.0       |
 | https://sccoos.org/erddap                                          | failed       |
@@ -43,7 +43,7 @@
 | https://data.pmel.noaa.gov/pmel/erddap                             | 2.27.0       |
 | https://data.neracoos.org/erddap                                   | 2.29.0       |
 | https://data.ioos.us/gliders/erddap                                | failed       |
-| https://data.cioospacific.ca/erddap                                | 2.23         |
+| https://data.cioospacific.ca/erddap                                | failed       |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23         |
 | https://coastwatch.pfeg.noaa.gov/erddap                            | 2.29.0       |
 | https://coastwatch.noaa.gov/erddap                                 | 2.29.0       |
@@ -52,8 +52,8 @@
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.02         |
 | https://basin.ceoe.udel.edu/erddap                                 | 2.29.0       |
 | https://atn.ioos.us/erddap                                         | 2.28.1       |
-| https://apps.glerl.noaa.gov/erddap                                 | 2.23         |
-| https://apdrc.soest.hawaii.edu/erddap                              | 1.80         |
+| https://apps.glerl.noaa.gov/erddap                                 | failed       |
+| https://apdrc.soest.hawaii.edu/erddap                              | failed       |
 | http://www.neracoos.org/erddap                                     | 1.82         |
 | http://www.myroms.org:8080/erddap                                  | failed       |
 | http://tds.marine.rutgers.edu/erddap                               | 2.29.0       |
