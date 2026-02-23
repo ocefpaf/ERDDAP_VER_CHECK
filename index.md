@@ -1,24 +1,24 @@
 |                                                                    | version      |
 |:-------------------------------------------------------------------|:-------------|
-| https://www.smartatlantic.ca/erddap                                | 2.23         |
-| https://www.ncei.noaa.gov/erddap                                   | 2.23         |
-| https://www.ifremer.fr/erddap                                      | 2.27.0       |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.29.0       |
+| https://www.smartatlantic.ca/erddap                                | failed       |
+| https://www.ncei.noaa.gov/erddap                                   | failed       |
+| https://www.ifremer.fr/erddap                                      | 2.28.1       |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.28.1       |
 | https://spraydata.ucsd.edu/erddap                                  | 2.28.1       |
 | https://seagull-erddap.glos.org/erddap                             | 2.29.0       |
 | https://sccoos.org/erddap                                          | failed       |
 | https://salishsea.eos.ubc.ca/erddap                                | failed       |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | failed       |
-| https://polarwatch.noaa.gov/erddap                                 | 2.29.0       |
+| https://polarwatch.noaa.gov/erddap                                 | failed       |
 | https://pae-paha.pacioos.hawaii.edu/erddap                         | failed       |
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18         |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22         |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.28.1       |
 | https://members.oceantrack.org/erddap                              | 2.23         |
-| https://linkedsystems.uk/erddap                                    | failed       |
+| https://linkedsystems.uk/erddap                                    | 2.28.1       |
 | https://gliders.ioos.us/erddap                                     | 2.28.1       |
 | https://geoport.usgs.esipfed.org/erddap                            | 2.23         |
-| https://gcoos5.geos.tamu.edu/erddap                                | failed       |
+| https://gcoos5.geos.tamu.edu/erddap                                | 2.28.1       |
 | https://ferret.pmel.noaa.gov/socat/erddap                          | 2.27.0       |
 | https://ferret.pmel.noaa.gov/alamo/erddap                          | 2.28.1       |
 | https://erddap.sensors.ioos.us/erddap                              | 2.28.1       |
@@ -31,7 +31,7 @@
 | https://erddap.maracoos.org/erddap                                 | 2.25_1       |
 | https://erddap.incois.gov.in/erddap                                | failed       |
 | https://erddap.griidc.org/erddap                                   | 2.02         |
-| https://erddap.gcoos.org/erddap                                    | failed       |
+| https://erddap.gcoos.org/erddap                                    | 2.23         |
 | https://erddap.emodnet.eu/erddap                                   | 2.18         |
 | https://erddap.emodnet-physics.eu/erddap                           | 2.23         |
 | https://erddap.dataexplorer.oceanobservatories.org/erddap          | 2.23         |
@@ -56,7 +56,7 @@
 | https://apdrc.soest.hawaii.edu/erddap                              | failed       |
 | http://www.neracoos.org/erddap                                     | 1.82         |
 | http://www.myroms.org:8080/erddap                                  | failed       |
-| http://tds.marine.rutgers.edu/erddap                               | failed       |
+| http://tds.marine.rutgers.edu/erddap                               | 2.29.0       |
 | http://sfbaynutrients.sfei.org/erddap                              | 2.27.0       |
 | http://sccoos.org/erddap                                           | 2.27.0       |
 | http://osmc.noaa.gov/erddap                                        | 2.27.0       |
