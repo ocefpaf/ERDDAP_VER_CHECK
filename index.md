@@ -10,7 +10,7 @@
 | https://salishsea.eos.ubc.ca/erddap                                | failed       |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | failed       |
 | https://polarwatch.noaa.gov/erddap                                 | 2.29.0       |
-| https://pae-paha.pacioos.hawaii.edu/erddap                         | failed       |
+| https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.29.0       |
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18         |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22         |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.28.1       |
@@ -73,5 +73,5 @@
 | http://dm3.caricoos.org:8002/erddap                                | failed       |
 | http://data.nanoos.org/erddap                                      | failed       |
 | http://data.glos.us/erddap                                         | failed       |
-| http://dap.onc.uvic.ca/erddap                                      | 2.27.0       |
+| http://dap.onc.uvic.ca/erddap                                      | 2.29.0       |
 | http://bmlsc.ucdavis.edu:8080/erddap                               | failed       |
