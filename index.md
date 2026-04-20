@@ -10,7 +10,7 @@
 | https://salishsea.eos.ubc.ca/erddap                                | failed       |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | failed       |
 | https://polarwatch.noaa.gov/erddap                                 | 2.29.0       |
-| https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.29.0       |
+| https://pae-paha.pacioos.hawaii.edu/erddap                         | failed       |
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18         |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22         |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.30.0       |
@@ -33,8 +33,8 @@
 | https://erddap.griidc.org/erddap                                   | 2.02         |
 | https://erddap.gcoos.org/erddap                                    | 2.23         |
 | https://erddap.emodnet.eu/erddap                                   | 2.18         |
-| https://erddap.emodnet-physics.eu/erddap                           | 2.23         |
-| https://erddap.dataexplorer.oceanobservatories.org/erddap          | 2.23         |
+| https://erddap.emodnet-physics.eu/erddap                           | 2.30.0       |
+| https://erddap.dataexplorer.oceanobservatories.org/erddap          | 2.30.0       |
 | https://erddap.bio-oracle.org/erddap                               | 2.23         |
 | https://erddap.bco-dmo.org/erddap                                  | 2.22         |
 | https://erddap-uncabled.oceanobservatories.org/uncabled/erddap     | failed       |
@@ -52,7 +52,7 @@
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.30.0-alpha |
 | https://basin.ceoe.udel.edu/erddap                                 | 2.29.0       |
 | https://atn.ioos.us/erddap                                         | 2.30.0       |
-| https://apps.glerl.noaa.gov/erddap                                 | failed       |
+| https://apps.glerl.noaa.gov/erddap                                 | 2.29.0       |
 | https://apdrc.soest.hawaii.edu/erddap                              | 1.80         |
 | http://www.neracoos.org/erddap                                     | 1.82         |
 | http://www.myroms.org:8080/erddap                                  | failed       |
