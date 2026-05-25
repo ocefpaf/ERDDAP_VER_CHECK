@@ -71,7 +71,7 @@
 | http://erddap.cencoos.org/erddap                                   | 2.30.0       |
 | http://erddap.axiomdatascience.com/erddap                          | 2.30.0       |
 | http://erddap.aoos.org/erddap                                      | 2.30.0       |
-| http://dm3.caricoos.org:8002/erddap                                | 2.30.0       |
+| http://dm3.caricoos.org:8002/erddap                                | failed       |
 | http://data.nanoos.org/erddap                                      | failed       |
 | http://data.glos.us/erddap                                         | failed       |
 | http://dap.onc.uvic.ca/erddap                                      | 2.29.0       |
