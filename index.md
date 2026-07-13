@@ -3,7 +3,7 @@
 | https://www.smartatlantic.ca/erddap                                | 2.23         |
 | https://www.ncei.noaa.gov/erddap                                   | 2.23         |
 | https://www.ifremer.fr/erddap                                      | 2.30.0       |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.30.0       |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.28.1       |
 | https://spraydata.ucsd.edu/erddap                                  | 2.28.1       |
 | https://seagull-erddap.glos.org/erddap                             | 2.29.0       |
 | https://sccoos.org/erddap                                          | failed       |
@@ -14,7 +14,7 @@
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18         |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22         |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.30.0       |
-| https://members.oceantrack.org/erddap                              | failed       |
+| https://members.oceantrack.org/erddap                              | 2.23         |
 | https://linkedsystems.uk/erddap                                    | 2.28.1       |
 | https://gliders.ioos.us/erddap                                     | 2.30.0       |
 | https://geoport.usgs.esipfed.org/erddap                            | 2.23         |
@@ -53,7 +53,7 @@
 | https://basin.ceoe.udel.edu/erddap                                 | 2.29.0       |
 | https://atn.ioos.us/erddap                                         | 2.30.0       |
 | https://apps.glerl.noaa.gov/erddap                                 | 2.30.0       |
-| https://apdrc.soest.hawaii.edu/erddap                              | failed       |
+| https://apdrc.soest.hawaii.edu/erddap                              | 1.80         |
 | http://www.neracoos.org/erddap                                     | 2.30.0       |
 | http://www.myroms.org:8080/erddap                                  | 2.30.0       |
 | http://tds.marine.rutgers.edu/erddap                               | 2.30.0       |
