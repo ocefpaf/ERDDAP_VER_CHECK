@@ -3,13 +3,13 @@
 | https://www.smartatlantic.ca/erddap                                | 2.23         |
 | https://www.ncei.noaa.gov/erddap                                   | 2.23         |
 | https://www.ifremer.fr/erddap                                      | 2.30.0       |
-| https://upwell.pfeg.noaa.gov/erddap                                | 2.30.0       |
+| https://upwell.pfeg.noaa.gov/erddap                                | 2.28.1       |
 | https://spraydata.ucsd.edu/erddap                                  | 2.28.1       |
-| https://seagull-erddap.glos.org/erddap                             | failed       |
+| https://seagull-erddap.glos.org/erddap                             | 2.30.0       |
 | https://sccoos.org/erddap                                          | failed       |
 | https://salishsea.eos.ubc.ca/erddap                                | failed       |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | failed       |
-| https://polarwatch.noaa.gov/erddap                                 | failed       |
+| https://polarwatch.noaa.gov/erddap                                 | 2.29.0       |
 | https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.29.0       |
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18         |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22         |
@@ -22,7 +22,7 @@
 | https://ferret.pmel.noaa.gov/socat/erddap                          | 2.30.0       |
 | https://ferret.pmel.noaa.gov/alamo/erddap                          | 2.30.0       |
 | https://erddap.sensors.ioos.us/erddap                              | 2.30.0       |
-| https://erddap.sccoos.org/erddap                                   | failed       |
+| https://erddap.sccoos.org/erddap                                   | 2.30.0       |
 | https://erddap.ondeckdata.com/erddap                               | 2.30.0       |
 | https://erddap.ogsl.ca/erddap                                      | 2.30.0       |
 | https://erddap.observations.voiceoftheocean.org/erddap             | 2.23         |
@@ -45,9 +45,9 @@
 | https://data.ioos.us/gliders/erddap                                | 2.30.0       |
 | https://data.cioospacific.ca/erddap                                | 2.28.1       |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23         |
-| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.30.0       |
-| https://coastwatch.noaa.gov/erddap                                 | 2.23         |
-| https://cioosatlantic.ca/erddap                                    | 2.23         |
+| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.25_1       |
+| https://coastwatch.noaa.gov/erddap                                 | 2.25_1       |
+| https://cioosatlantic.ca/erddap                                    | 2.25_1       |
 | https://catalogue.hakai.org/erddap                                 | 2.25_1       |
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.30.0-alpha |
 | https://basin.ceoe.udel.edu/erddap                                 | 2.29.0       |
@@ -74,5 +74,5 @@
 | http://dm3.caricoos.org:8002/erddap                                | failed       |
 | http://data.nanoos.org/erddap                                      | failed       |
 | http://data.glos.us/erddap                                         | failed       |
-| http://dap.onc.uvic.ca/erddap                                      | 2.29.0       |
+| http://dap.onc.uvic.ca/erddap                                      | failed       |
 | http://bmlsc.ucdavis.edu:8080/erddap                               | failed       |
