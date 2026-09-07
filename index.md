@@ -11,7 +11,7 @@
 | https://pub-data.diver.orr.noaa.gov/erddap                         | failed       |
 | https://polarwatch.noaa.gov/erddap                                 | failed       |
 | https://pae-paha.pacioos.hawaii.edu/erddap                         | failed       |
-| https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18         |
+| https://opendap.co-ops.nos.noaa.gov/erddap                         | failed       |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22         |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.30.0       |
 | https://members.oceantrack.org/erddap                              | failed       |
@@ -45,9 +45,9 @@
 | https://data.ioos.us/gliders/erddap                                | 2.30.0       |
 | https://data.cioospacific.ca/erddap                                | 2.28.1       |
 | https://cwcgom.aoml.noaa.gov/erddap                                | 2.23         |
-| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.31.0       |
-| https://coastwatch.noaa.gov/erddap                                 | 2.23         |
-| https://cioosatlantic.ca/erddap                                    | 2.23         |
+| https://coastwatch.pfeg.noaa.gov/erddap                            | 2.31.1       |
+| https://coastwatch.noaa.gov/erddap                                 | 2.30.0       |
+| https://cioosatlantic.ca/erddap                                    | 2.30.0       |
 | https://catalogue.hakai.org/erddap                                 | 2.25_1       |
 | https://canwinerddap.ad.umanitoba.ca/erddap                        | 2.30.0-alpha |
 | https://basin.ceoe.udel.edu/erddap                                 | 2.29.0       |
