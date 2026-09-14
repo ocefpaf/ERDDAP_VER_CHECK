@@ -10,8 +10,8 @@
 | https://salishsea.eos.ubc.ca/erddap                                | failed       |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | failed       |
 | https://polarwatch.noaa.gov/erddap                                 | failed       |
-| https://pae-paha.pacioos.hawaii.edu/erddap                         | failed       |
-| https://opendap.co-ops.nos.noaa.gov/erddap                         | failed       |
+| https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.29.0       |
+| https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18         |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22         |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.30.0       |
 | https://members.oceantrack.org/erddap                              | failed       |
@@ -30,7 +30,7 @@
 | https://erddap.marine.ie/erddap                                    | 2.14         |
 | https://erddap.maracoos.org/erddap                                 | 2.25_1       |
 | https://erddap.incois.gov.in/erddap                                | failed       |
-| https://erddap.griidc.org/erddap                                   | 2.02         |
+| https://erddap.griidc.org/erddap                                   | 2.31.1       |
 | https://erddap.gcoos.org/erddap                                    | 2.23         |
 | https://erddap.emodnet.eu/erddap                                   | 2.18         |
 | https://erddap.emodnet-physics.eu/erddap                           | 2.30.0       |
@@ -53,10 +53,10 @@
 | https://basin.ceoe.udel.edu/erddap                                 | 2.29.0       |
 | https://atn.ioos.us/erddap                                         | 2.30.0       |
 | https://apps.glerl.noaa.gov/erddap                                 | 2.30.0       |
-| https://apdrc.soest.hawaii.edu/erddap                              | failed       |
-| http://www.neracoos.org/erddap                                     | 2.30.0       |
-| http://www.myroms.org:8080/erddap                                  | 2.30.0       |
-| http://tds.marine.rutgers.edu/erddap                               | 2.30.0       |
+| https://apdrc.soest.hawaii.edu/erddap                              | 1.80         |
+| http://www.neracoos.org/erddap                                     | 2.31.1       |
+| http://www.myroms.org:8080/erddap                                  | 2.31.1       |
+| http://tds.marine.rutgers.edu/erddap                               | 2.31.1       |
 | http://sfbaynutrients.sfei.org/erddap                              | 2.27.0       |
 | http://sccoos.org/erddap                                           | 2.27.0       |
 | http://osmc.noaa.gov/erddap                                        | 2.27.0       |
@@ -65,7 +65,7 @@
 | http://gcoos4.tamu.edu:8080/erddap                                 | failed       |
 | http://erddap.sensors.ioos.us/erddap                               | 2.30.0       |
 | http://erddap.secoora.org/erddap                                   | 2.30.0       |
-| http://erddap.oceantrack.org/erddap                                | 2.25_1       |
+| http://erddap.oceantrack.org/erddap                                | failed       |
 | http://erddap.emso.eu/erddap                                       | 2.29.0-alpha |
 | http://erddap.emodnet-physics.eu/erddap                            | 2.30.0       |
 | http://erddap.cencoos.org/erddap                                   | 2.30.0       |
