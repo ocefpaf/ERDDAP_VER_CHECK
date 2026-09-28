@@ -9,9 +9,9 @@
 | https://sccoos.org/erddap                                          | failed       |
 | https://salishsea.eos.ubc.ca/erddap                                | failed       |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | failed       |
-| https://polarwatch.noaa.gov/erddap                                 | failed       |
-| https://pae-paha.pacioos.hawaii.edu/erddap                         | failed       |
-| https://opendap.co-ops.nos.noaa.gov/erddap                         | 2.18         |
+| https://polarwatch.noaa.gov/erddap                                 | 2.31.1       |
+| https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.29.0       |
+| https://opendap.co-ops.nos.noaa.gov/erddap                         | failed       |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | 2.22         |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.30.0       |
 | https://members.oceantrack.org/erddap                              | failed       |
@@ -67,7 +67,7 @@
 | http://erddap.secoora.org/erddap                                   | 2.31.1       |
 | http://erddap.oceantrack.org/erddap                                | 2.25_1       |
 | http://erddap.emso.eu/erddap                                       | 2.29.0-alpha |
-| http://erddap.emodnet-physics.eu/erddap                            | 2.31.1       |
+| http://erddap.emodnet-physics.eu/erddap                            | failed       |
 | http://erddap.cencoos.org/erddap                                   | 2.31.1       |
 | http://erddap.axiomdatascience.com/erddap                          | 2.31.1       |
 | http://erddap.aoos.org/erddap                                      | 2.31.1       |
