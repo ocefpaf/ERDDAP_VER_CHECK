@@ -11,7 +11,7 @@ notebook = "jupyter nbclassic"
 erddap_ver_check = "jupyter nbconvert --to notebook --execute erddap_server_versions.ipynb --output=erddap_server_versions-output.ipynb"
 
 [dependencies]
-python = "3.13.*"
+python = "3.14.*"
 erddapy = ">=2.2.3,<3"
 nbclassic = ">=1.1.0,<2"
 nbconvert = ">=7.16.4,<8"
