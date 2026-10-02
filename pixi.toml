@@ -12,9 +12,10 @@ erddap_ver_check = "jupyter nbconvert --to notebook --execute erddap_server_vers
 
 [dependencies]
 python = "3.14.*"
-erddapy = ">=2.2.3,<3"
-nbclassic = ">=1.1.0,<2"
-nbconvert = ">=7.16.4,<8"
-pandas = ">=2.2.3,<3"
-tabulate = ">=0.9.0,<0.10"
-stamina = ">=25.1.0,<26"
+erddapy = ">=2.2.3"
+nbclassic = ">=1.1.0"
+nbconvert = ">=7.16.4"
+pandas = ">=2.2.3"
+tabulate = ">=0.9.0"
+stamina = ">=25.1.0"
+prometheus_client = ">=0.26.0,<0.27"
