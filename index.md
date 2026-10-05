@@ -9,12 +9,12 @@
 | https://sccoos.org/erddap                                          | 2.30.0:docker       |
 | https://salishsea.eos.ubc.ca/erddap                                | 2.26:               |
 | https://pub-data.diver.orr.noaa.gov/erddap                         | 2.30.0:             |
-| https://polarwatch.noaa.gov/erddap                                 | 2.31.1:             |
-| https://pae-paha.pacioos.hawaii.edu/erddap                         | 2.29.0:             |
+| https://polarwatch.noaa.gov/erddap                                 | failed:NA           |
+| https://pae-paha.pacioos.hawaii.edu/erddap                         | failed:NA           |
 | https://opendap.co-ops.nos.noaa.gov/erddap                         | failed:NA           |
 | https://oceanwatch.pifsc.noaa.gov/erddap                           | failed:NA           |
 | https://oceanview.pfeg.noaa.gov/erddap                             | 2.30.0:             |
-| https://members.oceantrack.org/erddap                              | failed:NA           |
+| https://members.oceantrack.org/erddap                              | 2.31.0:docker       |
 | https://linkedsystems.uk/erddap                                    | 2.28.1:             |
 | https://gliders.ioos.us/erddap                                     | 2.30.0:docker       |
 | https://geoport.usgs.esipfed.org/erddap                            | failed:NA           |
